@@ -1,8 +1,8 @@
-##UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization
+#UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization#
 
-####Summary of the work...
+##Summary of the work...##
 
-**UTOPIAN provides various interaction capabilities: **
+**Interaction capabilities**
 
 -  topic merging
 
@@ -22,15 +22,16 @@
 
 
 **Keywords**
-Nonnegative matrix factorization (NMF)
+
+- Nonnegative matrix factorization (NMF)
 
 
 
-####Can be used for...
+##Can be used for...
 We have the same goal which is "discovering topics in document collections and providing the user with a summary of a document corpus in terms of, for example, keyword summaries of computed topics and a group of documents closely related to each topic".
 
 
 
 
-####Link
+##Link
 http://dmkd.cs.vt.edu/papers/TVCG13.pdf 
