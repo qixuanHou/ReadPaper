@@ -6,11 +6,11 @@ The paper focused on how to use social media during crisis and used the example 
 
 How to decide the key word of HITMUS - The paper proposed to use bag of words to analyze the probability of each words in certain area. If the new tweets contain words totally different than previous tweets, there might be an event. 
 
-*Topic modeling of VIP* - We can calculate probability of words in the paper of certain topics and classify papers based on that. There may be papers with strange keywords and it might be the interesting things for researchers in the area. 
+**Topic modeling of VIP** - We can calculate probability of words in the paper of certain topics and classify papers based on that. There may be papers with strange keywords and it might be the interesting things for researchers in the area. 
 
-*Topic Discovery* - The algorithm begins with one tweet and define it as topic one. When there is new tweet coming, the algorithm calculates the score to decide whether the coming tweet is the same topic or not. If not, then the coming tweet is topic two.
+**Topic Discovery** - The algorithm begins with one tweet and define it as topic one. When there is new tweet coming, the algorithm calculates the score to decide whether the coming tweet is the same topic or not. If not, then the coming tweet is topic two.
 
-*Visualization* - For HITMUS, similar visualization may be used to identify topic of each cluster of tweets.
+**Visualization** - For HITMUS, similar visualization may be used to identify topic of each cluster of tweets.
 
 Situation awareness
 - 1. The perception of elements in the environment within a volume of time and space; 
