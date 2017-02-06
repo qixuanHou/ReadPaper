@@ -30,7 +30,7 @@ Chinese version of code description
 https://www.youtube.com/watch?v=i-cd3wzsHtw
 
 
-[alt tag](http://url/to/img.png)
+[alt tag](http://www.jqueryscript.net/lightbox/Responsive-Touch-enabled-jQuery-Image-Lightbox-Plugin.html)
 
 
 
