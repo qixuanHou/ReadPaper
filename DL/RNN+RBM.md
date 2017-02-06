@@ -32,10 +32,9 @@ https://www.youtube.com/watch?v=i-cd3wzsHtw
 
 ###Reference 
 
-Goel, K., Vohra, R., & Sahoo, J. K. (2014). Polyphonic Music Generation by Modeling Temporal Dependencies Using a RNN-DBN. Artificial Neural Networks and Machine Learning – ICANN 2014 Lecture Notes in Computer Science, 217-224. doi:10.1007/978-3-319-11179-7_28 
+[Goel, K., Vohra, R., & Sahoo, J. K. (2014). Polyphonic Music Generation by Modeling Temporal Dependencies Using a RNN-DBN. Artificial Neural Networks and Machine Learning – ICANN 2014 Lecture Notes in Computer Science, 217-224. doi:10.1007/978-3-319-11179-7_28](http://www-etud.iro.umontreal.ca/~boulanni/ICML2012.pdf)
 
 
 
-###Link
 
-http://www-etud.iro.umontreal.ca/~boulanni/ICML2012.pdf
+
