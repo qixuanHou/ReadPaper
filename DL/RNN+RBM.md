@@ -12,9 +12,7 @@ Given a desired distribution, how to sample it with RBM.
 
 *Source* 
 
-D3 visualization of RBM
-
-https://www.youtube.com/watch?v=NkG5HxPdjuY 
+[D3 visualization of RBM] (https://www.youtube.com/watch?v=NkG5HxPdjuY)
 
 
 
@@ -28,9 +26,6 @@ Each layer of RNN seems like a nerual network. When the system goes to the next 
 Chinese version of code description
 
 https://www.youtube.com/watch?v=i-cd3wzsHtw
-
-
-[alt tag](http://www.jqueryscript.net/lightbox/Responsive-Touch-enabled-jQuery-Image-Lightbox-Plugin.html)
 
 
 
