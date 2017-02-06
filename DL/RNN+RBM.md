@@ -13,8 +13,6 @@ Given a desired distribution, how to sample it with RBM.
 [D3 visualization of RBM] (https://www.youtube.com/watch?v=NkG5HxPdjuY)
 
 
-
-
 ###Recurrent neural network
 Each layer of RNN seems like a nerual network. When the system goes to the next layer, the previous layer's information will be carried to the next layer. 
 
