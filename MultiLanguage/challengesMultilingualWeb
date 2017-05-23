@@ -1,6 +1,10 @@
 #Challenges for the Multilingual Web of Data
 
 ##Summary
+"Web of Data - The crucial idea behind Linked data is to “connect data” using Semantic Web techniques and building on current Web infrastructure, thus transforming the Web into a “global database” in which resources are linked across sites and where facts and related knowledge are available for consumption by advanced, knowledge-
+based web applications."
+
+"Linked Data has found a wide acceptance among governments1, media companies, and academia all over the world [20,3,25]. These early adopters have clearly identified the potential benefits of publishing data in Linked Data format and are publishing their data sources following the Linked Data principles. The so called Linking Open Data (LOD) initiative2 has further stimulated the emergence and adoption of the Linked Data principles in the construction of a web of linked open data."
 
 
 ##Evaluation
@@ -12,3 +16,13 @@
 ##Link
 
 http://oa.upm.es/8848/1/Multiling.pdf
+
+
+C. Bizer, T. Heath, and T. Berners-Lee. Linked data - the story so far. International Journal on Semantic
+Web and Information Systems (IJSWIS), 2009.
+
+G. Kobilarov, T. Scott, Y. Raimond, S. Oliver, C. Sizemore, M. Smethurst, C. Bizer, and R. Lee, Media
+meets semantic web - how the bbc uses dbpedia and Linked Data to make connections. In ESWC 2009 Heraklion: Proceedings of the 6th European Semantic Web Conference on The Semantic Web. Berlin, Heidelberg: Springer-Verlag, pp. 723-737, 2009.
+
+P. Miller. Linked data horizon scan. Joint Information Systems Committee (JISC), Tech. Rep., December
+2009
